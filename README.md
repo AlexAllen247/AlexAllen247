@@ -14,10 +14,13 @@ I look forward to connecting with you!
 <a href="https://www.linkedin.com/in/alexander-allen-392225251/">
 <img src="https://user-images.githubusercontent.com/66707636/177416455-964d44cb-bdba-48bc-aae7-2b8f3a87b4b7.svg" alt="linkedin">
 </a>
+</p>
+<p>
 <a href="https://www.freecodecamp.org/AlexAllen247">
 <img src="https://goo.gl/oQrQYo" width="100" height="100" alt="freecodecamp">
- </a>
- </p>
+</a>
+</p>
+
 
 <hr>
 
