@@ -33,6 +33,7 @@ These are skills that I'm proficient at or currently learning.
 <img src="https://user-images.githubusercontent.com/66707636/177418998-d543d406-11ef-4c03-8c18-317ff7f467b7.svg" alt="python" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177419055-26ba5165-81fe-44c4-9362-34358d0bc7c2.svg" alt="html" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177419068-409bc96f-3591-4dc9-805b-fb6ad567f982.svg" alt="css" width="45px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177420913-45f3bb5c-5977-4aae-860c-37b4e98d5d5f.svg" alt="django" width="35px">
 <img src="https://user-images.githubusercontent.com/66707636/177421957-562cd30d-4b8b-4ca0-b672-5062abdb10f4.svg" alt="sql" width="35px">
 <img src="https://user-images.githubusercontent.com/66707636/177422016-2758da9c-9482-421d-a438-7fc96f4c550a.svg" alt="mongodb" width="45px">
@@ -42,7 +43,6 @@ These are skills that I'm proficient at or currently learning.
 <img src="https://user-images.githubusercontent.com/66707636/177422401-44f7f8aa-13dc-4966-b9c5-87673f0fafd3.svg" alt="git" width="45px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="45px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="45px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="45px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45px">
 </p>
