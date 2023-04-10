@@ -2,13 +2,25 @@
 
 <hr>
 
-I am a web developer with a background in Personal Training. Between 2014-2019 I worked for Virgin Active in London, where I was promoted to Master Trainer. I then relocated to Marbella, Spain. 
+As a versatile and highly motivated professional, I have a unique combination of expertise in full stack web development and the health and fitness industry. With over a decade of experience in personal training and health management, I am passionate about helping individuals achieve their fitness goals and improve their overall well-being. My background includes a successful tenure as a Master Trainer with Virgin Active, over 10 years as a Personal Trainer, and serving as a Director at a Health and Wellness Startup called No Targets Just Routine.
 
-Post COVID I re-trained as a web developer. I began by completing the entire FreeCodeCamp curriculum, where I have certifications in Responsive Web Design, Data Structures and Algorithms, Front End Development Libraries, Back End Development, Quality Assurance, Relational Databases and Data Analytics. I then completed Harvard's Cs50x and Cs50W courses, earning verified certificates on Edx. I have a passion for software and web development and through the discipline of being a self-learner will continue to add to my knowledge base. 
+Driven by my curiosity and commitment to continuous learning, I embarked on a new journey to acquire skills in full stack web development during the pandemic. Since then, I have become proficient in a wide range of technologies, including HTML, CSS, JavaScript, React, Node.js, Express.js, Python, Django, MongoDB, and SQL. This technical skill set allows me to create innovative and user-friendly web applications tailored to the needs of diverse clients.
 
-I have excellent time management skills, can work alone or thrive as part of a team. I also have strong inter-personal relationship skills, while my years as a Master Trainer provided a wide and varied experience in interacting with clients. 
+My key competencies include:
 
-I look forward to connecting with you!
+Full Stack Web Development: Proficient in front-end and back-end technologies, with a strong foundation in web design, coding, and testing.
+Health and Fitness Expertise: Over a decade of experience in personal training, health management, and wellness program development.
+Problem Solving and Adaptability: Adept at tackling complex challenges and adapting to new situations with creativity and resourcefulness.
+
+Some of my most notable professional achievements include:
+
+Master Trainer at Virgin Active: Designed and implemented custom fitness programs, contributing to the success and growth of the company.
+Director of No Targets Just Routine: Played a pivotal role in developing and launching a health and wellness startup focused on helping individuals establish healthy habits.
+Full Stack Web Development Projects: Successfully completed various web development projects, showcasing my technical expertise and ability to deliver results.
+
+Currently, I am seeking opportunities to apply my diverse skill set in full stack web development or physical fitness. I am excited to connect with like-minded professionals, share insights, and explore potential collaborations. Please feel free to reach out if you would like to discuss how my background and expertise can benefit your organization, or if you simply want to connect and expand your professional network.
+
+Thank you for taking the time to review my profile. I look forward to connecting with you!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alexander-allen-392225251/" target="_blank">
